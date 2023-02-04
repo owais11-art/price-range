@@ -1,7 +1,0 @@
-- Create Slider component: @done
-    - Create div which will hold price. @done
-    - Create Buy now button. @done
-    - Add range slider component. @done
-    - Add functionality. @done
-        - When user slides range it should update price. @done
-    - Style slider track when sliding. @done
